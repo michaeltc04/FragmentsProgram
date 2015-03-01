@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsProgram</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bucket_list">Bucket List</string>
+    <string name="shopping_list">Shopping List</string>
+
+</resources>
